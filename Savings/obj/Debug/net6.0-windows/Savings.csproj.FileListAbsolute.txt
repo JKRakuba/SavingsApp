@@ -1,0 +1,27 @@
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\bin\Debug\net6.0-windows\Savings.exe
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\bin\Debug\net6.0-windows\Savings.deps.json
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\bin\Debug\net6.0-windows\Savings.runtimeconfig.json
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\bin\Debug\net6.0-windows\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\bin\Debug\net6.0-windows\Savings.pdb
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.AssemblyReference.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.Form1.resources
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.GenerateResource.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.AssemblyInfoInputs.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.AssemblyInfo.cs
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.CoreCompileInputs.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\refint\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.pdb
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.genruntimeconfig.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\POE\POE\Savings\Savings\obj\Debug\net6.0-windows\ref\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.AssemblyReference.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.Savings.resources
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.GenerateResource.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.AssemblyInfoInputs.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.AssemblyInfo.cs
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.csproj.CoreCompileInputs.cache
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\refint\Savings.dll
+F:\ROSEBANK COLLEGE\2022\SEMESTER 1\Programming 2A\ST10097056_Julliet Rakuba_PROG6221_POE\Savings\Savings\obj\Debug\net6.0-windows\Savings.pdb
